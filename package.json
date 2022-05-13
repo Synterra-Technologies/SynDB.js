@@ -1,6 +1,6 @@
 {
   "name": "syndb.js",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "SynDB is a database that is json based, It is lightweight and fast, And it is easy to use.",
   "main": "syndb.js",
   "scripts": {

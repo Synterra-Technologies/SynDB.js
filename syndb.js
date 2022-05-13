@@ -24,10 +24,7 @@ class loadDB {
         }
     }
     save() {
-        /// with spaces
-        this.data = JSON.stringify(this.data, null, 2);
-        fs.writeFileSync(this.file, this.data, 'utf8');
-        return this.data;
+        fs.writeFileSync(this.file, JSON.stringify(this.data));
     }
     delete(key) {
         delete this.data[key];

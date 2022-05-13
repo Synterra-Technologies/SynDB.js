@@ -1,0 +1,22 @@
+{
+  "name": "syndb.js",
+  "version": "1.0.0",
+  "description": "SynDB is a database that is json based, It is lightweight and fast, And it is easy to use.",
+  "main": "syndb.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Synterra-Technologies/SynDB.js.git"
+  },
+  "keywords": [
+    "db"
+  ],
+  "author": "Josh Wells",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Synterra-Technologies/SynDB.js/issues"
+  },
+  "homepage": "https://github.com/Synterra-Technologies/SynDB.js#readme"
+}

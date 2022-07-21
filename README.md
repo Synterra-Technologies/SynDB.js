@@ -1,3 +1,5 @@
+## This will no longer get any updates
+
 # SynDB
 
 ## Usage
